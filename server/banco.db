@@ -1,0 +1,55 @@
+{"ordem":2,"origem":"Carambei","destino":"Maceio","distancia":"2.828 km","duracao":"1 dia 16 horas","_id":"Cj1aoPix2uiOf61Q"}
+{"ordem":1,"origem":"Rua Pedro Beninca","destino":"Rua Luiz Alberto Domingues","distancia":"3,8 km","duracao":"9 minutos","_id":"rr17XLohIT6CNYdD"}
+{"ordem":3,"origem":"Ubatuba SP","destino":"Sao Paulo SP","distancia":"725 km","duracao":"8 horas 44 minutos","_id":"uLuh8Go1EROyhgJK"}
+{"ordem":3,"origem":"Ubatuba SP","destino":"Sao Paulo SPfddfdf","distancia":"227 km","duracao":"3 horas 15 minutos","_id":"uLuh8Go1EROyhgJK"}
+{"ordem":3,"origem":"Carambei","destino":"Maceio","distancia":"2.828 km","duracao":"1 dia 16 horas","_id":"Cj1aoPix2uiOf61Q"}
+{"ordem":2,"origem":"Ubatuba SP","destino":"Sao Paulo SPfddfdf","distancia":"227 km","duracao":"3 horas 15 minutos","_id":"uLuh8Go1EROyhgJK"}
+{"ordem":2,"origem":"Rua Pedro Beninca","destino":"Rua Luiz Alberto Domingues","distancia":"3,8 km","duracao":"9 minutos","_id":"rr17XLohIT6CNYdD"}
+{"ordem":1,"origem":"Ubatuba SP","destino":"Sao Paulo SPfddfdf","distancia":"227 km","duracao":"3 horas 15 minutos","_id":"uLuh8Go1EROyhgJK"}
+{"ordem":3,"origem":"Rua Pedro Beninca","destino":"Rua Luiz Alberto Domingues","distancia":"3,8 km","duracao":"9 minutos","_id":"rr17XLohIT6CNYdD"}
+{"ordem":2,"origem":"Carambei","destino":"Maceio","distancia":"2.828 km","duracao":"1 dia 16 horas","_id":"Cj1aoPix2uiOf61Q"}
+{"ordem":2,"origem":"Ubatuba SP","destino":"Sao Paulo SPfddfdf","distancia":"227 km","duracao":"3 horas 15 minutos","_id":"uLuh8Go1EROyhgJK"}
+{"ordem":1,"origem":"Carambei","destino":"Maceio","distancia":"2.828 km","duracao":"1 dia 16 horas","_id":"Cj1aoPix2uiOf61Q"}
+{"ordem":3,"origem":"Ubatuba SP","destino":"Sao Paulo SPfddfdf","distancia":"227 km","duracao":"3 horas 15 minutos","_id":"uLuh8Go1EROyhgJK"}
+{"ordem":2,"origem":"Rua Pedro Beninca","destino":"Rua Luiz Alberto Domingues","distancia":"3,8 km","duracao":"9 minutos","_id":"rr17XLohIT6CNYdD"}
+{"ordem":1,"origem":"Carambei","destino":"Maceio","distancia":"2.828 km","duracao":"1 dia 16 horas","_id":"Cj1aoPix2uiOf61Q"}
+{"$$deleted":true,"_id":"Cj1aoPix2uiOf61Q"}
+{"ordem":1,"origem":"Rua Pedro Beninca","destino":"Rua Luiz Alberto Domingues","distancia":"3,8 km","duracao":"9 minutos","_id":"rr17XLohIT6CNYdD"}
+{"ordem":2,"origem":"Ubatuba SP","destino":"Sao Paulo SPfddfdf","distancia":"227 km","duracao":"3 horas 15 minutos","_id":"uLuh8Go1EROyhgJK"}
+{"$$deleted":true,"_id":"rr17XLohIT6CNYdD"}
+{"ordem":1,"origem":"Ubatuba SP","destino":"Sao Paulo SPfddfdf","distancia":"227 km","duracao":"3 horas 15 minutos","_id":"uLuh8Go1EROyhgJK"}
+{"$$deleted":true,"_id":"uLuh8Go1EROyhgJK"}
+{"ordem":1,"origem":"Curitiba PR","destino":"Santos SP","distancia":"400 km","duracao":"5 horas 37 minutos","_id":"3pAcdZOamjdza6tr"}
+{"ordem":2,"origem":"Ubatuba SP","destino":"Cascavel PR","distancia":"1.148 km","duracao":"14 horas 11 minutos","_id":"lQI1BnBtAIijs7bG"}
+{"ordem":3,"origem":"Ponta Grossa PR","destino":"Sao Paulo SP","distancia":"516 km","duracao":"6 horas 52 minutos","_id":"RuDq3Lf1aJZN1jkT"}
+{"ordem":3,"origem":"Ubatuba SP","destino":"Cascavel PR","distancia":"1.148 km","duracao":"14 horas 11 minutos","_id":"lQI1BnBtAIijs7bG"}
+{"ordem":2,"origem":"Ponta Grossa PR","destino":"Sao Paulo SP","distancia":"516 km","duracao":"6 horas 52 minutos","_id":"RuDq3Lf1aJZN1jkT"}
+{"ordem":2,"origem":"Curitiba PR","destino":"Santos SP","distancia":"400 km","duracao":"5 horas 37 minutos","_id":"3pAcdZOamjdza6tr"}
+{"ordem":1,"origem":"Ponta Grossa PR","destino":"Sao Paulo SP","distancia":"516 km","duracao":"6 horas 52 minutos","_id":"RuDq3Lf1aJZN1jkT"}
+{"$$deleted":true,"_id":"3pAcdZOamjdza6tr"}
+{"ordem":2,"origem":"Ubatuba SP","destino":"Cascavel PR","distancia":"1.148 km","duracao":"14 horas 11 minutos","_id":"lQI1BnBtAIijs7bG"}
+{"ordem":3,"origem":"Curitiba PR","destino":"Santos SP","distancia":"400 km","duracao":"5 horas 37 minutos","_id":"ttY9LO5xkHQcMZhf"}
+{"ordem":2,"origem":"Ponta Grossa PR","destino":"Sao Paulo SP","distancia":"516 km","duracao":"6 horas 52 minutos","_id":"RuDq3Lf1aJZN1jkT"}
+{"ordem":1,"origem":"Ubatuba SP","destino":"Cascavel PR","distancia":"1.148 km","duracao":"14 horas 11 minutos","_id":"lQI1BnBtAIijs7bG"}
+{"ordem":1,"origem":"Ponta Grossa PR","destino":"Sao Paulo SP","distancia":"516 km","duracao":"6 horas 52 minutos","_id":"RuDq3Lf1aJZN1jkT"}
+{"ordem":2,"origem":"Ubatuba SP","destino":"Cascavel PR","distancia":"1.148 km","duracao":"14 horas 11 minutos","_id":"lQI1BnBtAIijs7bG"}
+{"ordem":3,"origem":"Curitiba PR","destino":"Santos SP","distancia":"400 km","duracao":"5 horas 37 minutos","_id":"ttY9LO5xkHQcMZhf"}
+{"ordem":2,"origem":"Ubatuba SP","destino":"Cascavel PR","distancia":"1.148 km","duracao":"14 horas 11 minutos","_id":"lQI1BnBtAIijs7bG"}
+{"ordem":1,"origem":"Ponta Grossa PR","destino":"Sao Paulo SP","distancia":"516 km","duracao":"6 horas 52 minutos","_id":"RuDq3Lf1aJZN1jkT"}
+{"ordem":3,"origem":"Curitiba PR","destino":"Santos SP","distancia":"400 km","duracao":"5 horas 37 minutos","_id":"ttY9LO5xkHQcMZhf"}
+{"ordem":3,"origem":"Curitiba PR","destino":"Santos SP","distancia":"400 km","duracao":"5 horas 37 minutos","_id":"ttY9LO5xkHQcMZhf"}
+{"ordem":1,"origem":"Ponta Grossa PR","destino":"Sao Paulo SP","distancia":"516 km","duracao":"6 horas 52 minutos","_id":"RuDq3Lf1aJZN1jkT"}
+{"ordem":4,"origem":"Ponta Grossa PR","destino":"Curitiba PR","distancia":"117 km","duracao":"1 hora 47 minutos","_id":"qigKg79QqBpwrxKB"}
+{"ordem":4,"origem":"Ponta Grossa PR","destino":"Curitiba PR","distancia":"117 km","duracao":"1 hora 47 minutos","_id":"qigKg79QqBpwrxKB"}
+{"ordem":4,"origem":"Ponta Grossa PR","destino":"Curitiba PR","distancia":"117 km","duracao":"1 hora 47 minutos","_id":"qigKg79QqBpwrxKB"}
+{"ordem":2,"origem":"Ubatuba SP","destino":"Cascavel PR","distancia":"1.148 km","duracao":"14 horas 11 minutos","_id":"lQI1BnBtAIijs7bG"}
+{"ordem":3,"origem":"Curitiba PR","destino":"Santos SP","distancia":"400 km","duracao":"5 horas 37 minutos","_id":"ttY9LO5xkHQcMZhf"}
+{"ordem":1,"origem":"Ponta Grossa PR","destino":"Sao Paulo SP","distancia":"516 km","duracao":"6 horas 52 minutos","_id":"RuDq3Lf1aJZN1jkT"}
+{"ordem":4,"origem":"Ponta Grossa PR","destino":"Curitiba PR","distancia":"117 km","duracao":"1 hora 47 minutos","_id":"qigKg79QqBpwrxKB"}
+{"ordem":1,"origem":"Ponta Grossa PR","destino":"Sao Paulo SP","distancia":"516 km","duracao":"6 horas 52 minutos","_id":"RuDq3Lf1aJZN1jkT"}
+{"ordem":3,"origem":"Ubatuba SP","destino":"Cascavel PR","distancia":"1.148 km","duracao":"14 horas 11 minutos","_id":"lQI1BnBtAIijs7bG"}
+{"ordem":2,"origem":"Curitiba PR","destino":"Santos SP","distancia":"400 km","duracao":"5 horas 37 minutos","_id":"ttY9LO5xkHQcMZhf"}
+{"ordem":1,"origem":"Ponta Grossa PR","destino":"Sao Paulo SP","distancia":"516 km","duracao":"6 horas 52 minutos","_id":"RuDq3Lf1aJZN1jkT"}
+{"ordem":4,"origem":"Ponta Grossa PR","destino":"Curitiba PR","distancia":"117 km","duracao":"1 hora 47 minutos","_id":"qigKg79QqBpwrxKB"}
+{"ordem":4,"origem":"Ponta Grossa PR","destino":"Curitiba PR","distancia":"117 km","duracao":"1 hora 47 minutos","_id":"qigKg79QqBpwrxKB"}
+{"ordem":4,"origem":"Ponta Grossa PR","destino":"Curitiba PR","distancia":"117 km","duracao":"1 hora 47 minutos","_id":"qigKg79QqBpwrxKB"}
