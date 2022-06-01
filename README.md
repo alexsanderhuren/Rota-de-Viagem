@@ -25,6 +25,10 @@ $ npm start
 ## Back - end
 $ cd server
 
+$ npm cache clean --force
+
+$ npm install
+
 $ node index.js ou nodemon index.js
 ##
 - OBS: Ambos devem ser executados em prompts diferentes.
