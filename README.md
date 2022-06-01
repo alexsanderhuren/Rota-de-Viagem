@@ -17,6 +17,10 @@ Exemplo:
 ## Front - end
 $ cd frontend
 
+$ npm cache clean --force
+
+$ npm install
+
 $ npm start
 ## Back - end
 $ cd server
