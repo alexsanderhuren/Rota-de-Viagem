@@ -2,7 +2,7 @@ import express from "express";
 import bodyParser from "body-parser";
 import cors from "cors";
 
-import userRoutes from "./routes/users.js"
+import userRoutes from "./routes/viagens.js"
 
 const app = express();
 const port = 5000;
