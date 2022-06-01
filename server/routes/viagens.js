@@ -1,6 +1,6 @@
 import express from "express";
 
-import { getViagens, createViagem, getViagem, deleteViagem, updateViagem, upViagem, downViagem } from "../controllers/users.js";
+import { getViagens, createViagem, getViagem, deleteViagem, updateViagem, upViagem, downViagem } from "../controllers/viagens.js";
 
 const router = express.Router();
 
