@@ -24,6 +24,8 @@ $ cd server
 $ node index.js ou nodemon index.js
 ##
 - OBS: Ambos devem ser executados em prompts diferentes.
+- Frontend será executado no localhost:3000
+- Backend será executado no localhost:5000
 
 ## Funcionalidades
 
